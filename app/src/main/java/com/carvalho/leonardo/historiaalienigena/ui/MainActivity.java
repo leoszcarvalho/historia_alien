@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
         campoNome = (EditText) findViewById(R.id.namEditText);
 
 
-
         /*
 
         CÓDIGO CASO SEJA NECESSÁRIA A DETECÇÃO DE EVENTOS DO TECLADO E TAMBÉM COMANDO COM MÉTODO hideKeyboard PARA
@@ -102,7 +101,5 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     */
-
-    //Teste Commit
 
 }
